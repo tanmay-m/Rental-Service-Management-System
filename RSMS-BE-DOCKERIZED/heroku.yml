@@ -1,0 +1,4 @@
+build:
+  api: app/Dockerfile
+run:
+  api: sh app/docker-entrypoint.sh  
